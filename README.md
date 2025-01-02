@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 Learning Never Stops 🚀<br><br>
 - 🔭 I’m currently working on Embeded <br/> <br/>
 - 💬 Major Skills Java,Python <br/><br/>
-- 📫 How to reach me: <a herf="mailto:vlgayathri93@gmail.com">**vlgayathri93@gmail.com**</a> <br/> <br/>
+- 📫 How to reach me: <a herf="mailto:vlgayathri93@gmail.com"> vlgayathri93@gmail.com </a> <br/> <br/>
 </div>
 <div align="center">
   
